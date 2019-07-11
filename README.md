@@ -1,2 +1,2 @@
 # Python-Basics
-Basics of Python and Programs
+Python for fun...
